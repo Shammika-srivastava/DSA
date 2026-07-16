@@ -1,23 +1,14 @@
 class Solution:
     def gcdOfOddEvenSums(self, n: int) -> int:
-        sumOdd=0
-        sumEven=0
-        count =n
-        i=1
-        while count!=0:
-            if i%2==0:
-                sumEven+=i
-                count-=1
-            i+=1
-        j=1
-        while n!=0:
-            if j%2!=0:
-                sumOdd+=i
-                n-=1    
-            j+=1    
-            
-        
-        while sumEven!=0:
-            sumOdd,sumEven = sumEven, sumOdd%sumEven
-        
-        return sumOdd
+        # First n odd numbers: 1, 3, 5, ..., (2n-1)
+        sumOdd = sum(2*i - 1 for i in range(1, n+1))
+        # First n even numbers: 2, 4, 6, ..., (2n)
+        sumEven = sum(2*i for i in range(1, n+1))
+
+        # Euclidean algorithm for GCD
+        def gcd(a, b):
+            while b != 0:
+                a, b = b, a % b
+            return a
+
+        return gcd(sumOdd, sumEven)
