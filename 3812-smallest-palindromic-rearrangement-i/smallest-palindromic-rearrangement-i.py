@@ -1,19 +1,18 @@
 class Solution:
     def smallestPalindrome(self, s: str) -> str:
-        freq = Counter(s)
-        odd_chars = [ch for ch, count in freq.items() if count % 2 == 1]
-
-        # If more than one odd character, palindrome not possible
-        if len(odd_chars) > 1:
-            return ""
-
-        # Build half of the palindrome
-        half = []
-        middle = odd_chars[0] if odd_chars else ""
+        freq={}
+        for ch in s   :
+            if ch in freq:
+                freq[ch]+=1
+            else:
+                freq[ch]=1
+        left=[]
+        mid="" 
         for ch in sorted(freq.keys()):
-            half.extend([ch] * (freq[ch] // 2))
+            left.append(ch*(freq[ch]//2))
+            if freq[ch]%2==1:
+                mid=ch
+        left = "".join(left)
+        right = left[::-1]
 
-        half_str = "".join(half)
-        return half_str + middle + half_str[::-1]
-
-        
+        return left + mid + right
