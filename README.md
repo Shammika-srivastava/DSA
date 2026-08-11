@@ -7,11 +7,13 @@ A collection of implementations and explanations of core Data Structures and Alg
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shammika-srivastava/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/Shammika-srivastava/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shammika-srivastava/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Stack
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shammika-srivastava/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/Shammika-srivastava/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shammika-srivastava/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
