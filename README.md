@@ -8,6 +8,7 @@ A collection of implementations and explanations of core Data Structures and Alg
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shammika-srivastava/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Shammika-srivastava/DSA/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/Shammika-srivastava/DSA/tree/master/0739-daily-temperatures) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shammika-srivastava/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shammika-srivastava/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Stack
@@ -15,6 +16,7 @@ A collection of implementations and explanations of core Data Structures and Alg
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shammika-srivastava/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Shammika-srivastava/DSA/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/Shammika-srivastava/DSA/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shammika-srivastava/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
@@ -36,4 +38,8 @@ A collection of implementations and explanations of core Data Structures and Alg
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shammika-srivastava/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Shammika-srivastava/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
