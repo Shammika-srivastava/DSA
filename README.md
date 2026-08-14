@@ -30,6 +30,7 @@ A collection of implementations and explanations of core Data Structures and Alg
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shammika-srivastava/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shammika-srivastava/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -42,4 +43,12 @@ A collection of implementations and explanations of core Data Structures and Alg
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Shammika-srivastava/DSA/tree/master/0739-daily-temperatures) |
+## String
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shammika-srivastava/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shammika-srivastava/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
