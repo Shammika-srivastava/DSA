@@ -6,6 +6,7 @@ A collection of implementations and explanations of core Data Structures and Alg
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shammika-srivastava/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shammika-srivastava/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Shammika-srivastava/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Shammika-srivastava/DSA/tree/master/0739-daily-temperatures) |
@@ -14,6 +15,7 @@ A collection of implementations and explanations of core Data Structures and Alg
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shammika-srivastava/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shammika-srivastava/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Shammika-srivastava/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Shammika-srivastava/DSA/tree/master/0739-daily-temperatures) |
@@ -42,6 +44,7 @@ A collection of implementations and explanations of core Data Structures and Alg
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shammika-srivastava/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Shammika-srivastava/DSA/tree/master/0739-daily-temperatures) |
 ## String
 |  |
@@ -51,4 +54,8 @@ A collection of implementations and explanations of core Data Structures and Alg
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shammika-srivastava/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shammika-srivastava/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
