@@ -1,4 +1,3 @@
-import numpy as np
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
         stack = []
