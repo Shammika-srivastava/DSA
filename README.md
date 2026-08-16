@@ -62,4 +62,5 @@ A collection of implementations and explanations of core Data Structures and Alg
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Shammika-srivastava/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0620-not-boring-movies](https://github.com/Shammika-srivastava/DSA/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
