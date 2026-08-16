@@ -58,4 +58,8 @@ A collection of implementations and explanations of core Data Structures and Alg
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shammika-srivastava/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Shammika-srivastava/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
