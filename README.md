@@ -12,6 +12,7 @@ A collection of implementations and explanations of core Data Structures and Alg
 | [0739-daily-temperatures](https://github.com/Shammika-srivastava/DSA/tree/master/0739-daily-temperatures) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shammika-srivastava/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shammika-srivastava/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shammika-srivastava/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Stack
 |  |
 | ------- |
@@ -20,10 +21,12 @@ A collection of implementations and explanations of core Data Structures and Alg
 | [0636-exclusive-time-of-functions](https://github.com/Shammika-srivastava/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Shammika-srivastava/DSA/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shammika-srivastava/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shammika-srivastava/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shammika-srivastava/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shammika-srivastava/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Math
 |  |
 | ------- |
@@ -64,4 +67,8 @@ A collection of implementations and explanations of core Data Structures and Alg
 | [0181-employees-earning-more-than-their-managers](https://github.com/Shammika-srivastava/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Shammika-srivastava/DSA/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Shammika-srivastava/DSA/tree/master/0620-not-boring-movies) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shammika-srivastava/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
