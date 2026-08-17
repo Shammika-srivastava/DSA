@@ -31,6 +31,7 @@ A collection of implementations and explanations of core Data Structures and Alg
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shammika-srivastava/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Shammika-srivastava/DSA/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +72,12 @@ A collection of implementations and explanations of core Data Structures and Alg
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shammika-srivastava/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shammika-srivastava/DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shammika-srivastava/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
