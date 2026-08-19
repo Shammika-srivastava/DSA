@@ -12,6 +12,7 @@ A collection of implementations and explanations of core Data Structures and Alg
 | [0739-daily-temperatures](https://github.com/Shammika-srivastava/DSA/tree/master/0739-daily-temperatures) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shammika-srivastava/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shammika-srivastava/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1470-shuffle-the-array](https://github.com/Shammika-srivastava/DSA/tree/master/1470-shuffle-the-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shammika-srivastava/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Stack
 |  |
