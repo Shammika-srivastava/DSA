@@ -34,6 +34,7 @@ A collection of implementations and explanations of core Data Structures and Alg
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shammika-srivastava/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Shammika-srivastava/DSA/tree/master/0231-power-of-two) |
+| [2843-count-symmetric-integers](https://github.com/Shammika-srivastava/DSA/tree/master/2843-count-symmetric-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,4 +90,8 @@ A collection of implementations and explanations of core Data Structures and Alg
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Shammika-srivastava/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/Shammika-srivastava/DSA/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
