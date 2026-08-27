@@ -32,6 +32,7 @@ A collection of implementations and explanations of core Data Structures and Alg
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shammika-srivastava/DSA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shammika-srivastava/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Shammika-srivastava/DSA/tree/master/0231-power-of-two) |
 | [2843-count-symmetric-integers](https://github.com/Shammika-srivastava/DSA/tree/master/2843-count-symmetric-integers) |
